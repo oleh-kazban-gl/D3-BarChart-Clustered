@@ -1,0 +1,27 @@
+body {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.label,
+.percentage,
+.amount {
+    float: left;
+    display: block;
+    padding: 0 10px;
+}
+
+.label {
+    width: 200px;
+}
+
+.percentage {
+    width: 200px;
+}
+
+.amount {
+    width: 200px;
+}
